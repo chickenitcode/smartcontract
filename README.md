@@ -1,19 +1,14 @@
-# Sample Hardhat 3 Beta Project (`node:test` and `viem`)
+# Thực hành `smartcontract` thông qua ngôn ngữ `Solidity` sử dụng framework `Hardhat`
 
-This project showcases a Hardhat 3 Beta project using the native Node.js test runner (`node:test`) and the `viem` library for Ethereum interactions.
+Dự án này giúp các bạn luyện tập các cú pháp, tư duy và logic khi thiết kế `smartcontract`thông qua framework đình đám một thời trong cộng đồng web3 và làm quen với ngôn ngữ mới `solidiy` 
 
-To learn more about the Hardhat 3 Beta, please visit the [Getting Started guide](https://hardhat.org/docs/getting-started#getting-started-with-hardhat-3). To share your feedback, join our [Hardhat 3 Beta](https://hardhat.org/hardhat3-beta-telegram-group) Telegram group or [open an issue](https://github.com/NomicFoundation/hardhat/issues/new) in our GitHub issue tracker.
 
-## Project Overview
+## Tổng quan dự án
+- Dự án giúp các bạn luyện tập, tiếp cận thông qua các bài toán kinh điển trong giới lập trình web3 
+- Các bài tập được build trên chain etherium testnet
+- Link nhận faucet testnet cho bạn nào cần: https://cloud.google.com/application/web3/faucet
 
-This example project includes:
-
-- A simple Hardhat configuration file.
-- Foundry-compatible Solidity unit tests.
-- TypeScript integration tests using [`node:test`](nodejs.org/api/test.html), the new Node.js native test runner, and [`viem`](https://viem.sh/).
-- Examples demonstrating how to connect to different types of networks, including locally simulating OP mainnet.
-
-## Usage
+## Cách build `hardhat`
 
 ### Running Tests
 
@@ -55,3 +50,11 @@ After setting the variable, you can run the deployment with the Sepolia network:
 ```shell
 npx hardhat ignition deploy --network sepolia ignition/modules/Counter.ts
 ```
+## Đề bài
+
+### 1. VOTING DAPP - Hệ thống bầu chọn
+### 2. MINT TOKEN DAPP - 
+### 3. ESCROW - Quỹ bảo mật
+### 4. DECENTRALIZED CROWDFUNDING - Gọi vốn cộng đồng
+### 5. NFT WHITELIST SALE - 
+### 6. STAKING CONTRACT - 
