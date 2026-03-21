@@ -1,10 +1,10 @@
 # Thực hành `smartcontract` thông qua ngôn ngữ `Solidity` sử dụng framework `Hardhat`
 
-Dự án này giúp các bạn luyện tập cú pháp, tư duy và logic khi thiết kế `smartcontract` thông qua framework đình đám một thời trong cộng đồng web3, đồng thời làm quen với ngôn ngữ mới `Solidity`.
+Project luyện tập cú pháp, tư duy và logic khi thiết kế `smartcontract` thông qua framework `hardhat`, đồng thời làm quen với ngôn ngữ mới `Solidity`.
 
 
 ## Tổng quan dự án
-- Dự án giúp các bạn luyện tập, tiếp cận thông qua các bài toán kinh điển trong giới lập trình web3 
+- Project giúp luyện tập, tiếp cận thông qua các bài toán kinh điển trong giới lập trình web3 
 - Các bài tập được build trên chain Ethereum testnet
 - Link nhận faucet testnet cho bạn nào cần: https://cloud.google.com/application/web3/faucet
 
